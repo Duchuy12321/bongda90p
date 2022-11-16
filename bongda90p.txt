@@ -7,7 +7,7 @@ https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
 https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 
 #EXTINF:0 group-title="Thông báo",mọi người update lại list để có full link
 https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 
-#EXTINF:0 group-title="Thông báo",khi mất biểu tượng ⭕️ thì link đã up
+#EXTINF:0 group-title="Thông báo",khi mất biểu tượng ⭕️ thì link đã up 
 https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 
 
 
