@@ -1,0 +1,299 @@
+#EXM3U
+#EXTINF:0 group-title="Thông báo",Update list thường xuyên để có link trận đấu
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 
+#EXTINF:0 group-title="Thông báo",thi thoảng mình up link bị chậm nên
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 
+#EXTINF:0 group-title="Thông báo",15p sau khi trận đấu diễn ra
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 
+#EXTINF:0 group-title="Thông báo",mọi người update lại list để có full link
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 
+#EXTINF:0 group-title="Thông báo",khi mất biểu tượng ⭕️ thì link đã up
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 
+
+
+
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",23h - 20/11 : Qatar vs Ecuador FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",23h - 20/11 : Qatar vs Ecuador HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 20/11 : Qatar vs Ecuador (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 20/11 : Qatar vs Ecuador (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 20/11 : Qatar vs Ecuador (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 20/11 : Qatar vs Ecuador (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",23h - 20/11 : Qatar vs Ecuador (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",23h - 20/11 : Qatar vs Ecuador (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",23h - 20/11 : Qatar vs Ecuador ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",20h - 21/11 : Anh vs Iran FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",20h - 21/11 : Anh vs Iran HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 21/11 : Anh vs Iran (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 21/11 : Anh vs Iran (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 21/11 : Anh vs Iran (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 21/11 : Anh vs Iran (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",20h - 21/11 : Anh vs Iran (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",20h - 21/11 : Anh vs Iran (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",20h - 21/11 : Anh vs Iran ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",23h - 21/11 : Senegal vs Hà Lan FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",23h - 21/11 : Senegal vs Hà Lan HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 21/11 : Senegal vs Hà Lan (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 21/11 : Senegal vs Hà Lan (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 21/11 : Senegal vs Hà Lan (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 21/11 : Senegal vs Hà Lan (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",23h - 21/11 : Senegal vs Hà Lan (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",23h - 21/11 : Senegal vs Hà Lan (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",23h - 21/11 : Senegal vs Hà Lan ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",17h - 22/11 : Argentina vs Saudi Arabia FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",17h - 22/11 : Argentina vs Saudi Arabia HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",17h - 22/11 : Argentina vs Saudi Arabia (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",17h - 22/11 : Argentina vs Saudi Arabia (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",17h - 22/11 : Argentina vs Saudi Arabia (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",17h - 22/11 : Argentina vs Saudi Arabia (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",17h - 22/11 : Argentina vs Saudi Arabia (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",17h - 22/11 : Argentina vs Saudi Arabia (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",17h - 22/11 : Argentina vs Saudi Arabia ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",20h - 22/11 : Đan Mạch vs Tunisia FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",20h - 22/11 : Đan Mạch vs Tunisia HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 22/11 : Đan Mạch vs Tunisia (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 22/11 : Đan Mạch vs Tunisia (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 22/11 : Đan Mạch vs Tunisia (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 22/11 : Đan Mạch vs Tunisia (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",20h - 22/11 : Đan Mạch vs Tunisia (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",20h - 22/11 : Đan Mạch vs Tunisia (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",20h - 22/11 : Đan Mạch vs Tunisia ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",23h - 22/11 : Mexico vs Ba Lan FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",23h - 22/11 : Mexico vs Ba Lan HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 22/11 : Mexico vs Ba Lan (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 22/11 : Mexico vs Ba Lan (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 22/11 : Mexico vs Ba Lan (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 22/11 : Mexico vs Ba Lan (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",23h - 22/11 : Mexico vs Ba Lan (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",23h - 22/11 : Mexico vs Ba Lan (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",23h - 22/11 :Mexico vs Ba Lan ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",2h - 23/11 : Pháp vs Úc FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",2h - 23/11 : Pháp vs Úc HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",2h - 23/11 : Pháp vs Úc (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",2h - 23/11 : Pháp vs Úc (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",2h - 23/11 : Pháp vs Úc (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",2h - 23/11 : Pháp vs Úc (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",2h - 23/11 : Pháp vs Úc (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",2h - 23/11 : Pháp vs Úc (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",2h - 23/11 : Pháp vs Úc ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",17h - 23/11 : Ma Rốc vs Croatia FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",17h - 23/11 : Ma Rốc vs Croatia HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",17h - 23/11 : Ma Rốc vs Croatia (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",17h - 23/11 : Ma Rốc vs Croatia (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",17h - 23/11 : Ma Rốc vs Croatia (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",17h - 23/11 : Ma Rốc vs Croatia (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",17h - 23/11 : Ma Rốc vs Croatia (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",17h - 23/11 : Ma Rốc vs Croatia (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",17h - 23/11 : Ma Rốc vs Croatia ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",20h - 23/11 : Đức vs Nhật Bản FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",20h - 23/11 : Đức vs Nhật Bản HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 23/11 : Đức vs Nhật Bản (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 23/11 : Đức vs Nhật Bản (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 23/11 : Đức vs Nhật Bản (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 23/11 : Đức vs Nhật Bản (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",20h - 23/11 : Đức vs Nhật Bản (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",20h - 23/11 : Đức vs Nhật Bản (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",20h - 23/11 : Đức vs Nhật Bản ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",23h - 23/11 : Tây Ban Nha vs Costa Rica FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",23h - 23/11 : Tây Ban Nha vs Costa Rica HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 23/11 : Tây Ban Nha vs Costa Rica (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 23/11 : Tây Ban Nha vs Costa Rica (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 23/11 : Tây Ban Nha vs Costa Rica (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 23/11 : Tây Ban Nha vs Costa Rica (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",23h - 23/11 : Tây Ban Nha vs Costa Rica (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",23h - 23/11 : Tây Ban Nha vs Costa Rica (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",23h - 23/11 : Tây Ban Nha vs Costa Rica ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",2h - 24/11 : Bỉ vs Canada FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",2h - 24/11 : Bỉ vs Canada HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",2h - 24/11 : Bỉ vs Canada (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",2h - 24/11 : Bỉ vs Canada (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",2h - 24/11 : Bỉ vs Canada (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",2h - 24/11 : Bỉ vs Canada (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",2h - 24/11 : Bỉ vs Canada (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",2h - 24/11 : Bỉ vs Canada (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",2h - 24/11 : Bỉ vs Canada ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",17h - 24/11 : Thuỵ Sĩ vs Cameroon FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",17h - 24/11 : Thuỵ Sĩ vs Cameroon HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",17h - 24/11 : Thuỵ Sĩ vs Cameroon (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",17h - 24/11 : Thuỵ Sĩ vs Cameroon (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",17h - 24/11 : Thuỵ Sĩ vs Cameroon (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",17h - 24/11 : Thuỵ Sĩ vs Cameroon (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",17h - 24/11 : Thuỵ Sĩ vs Cameroon (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",17h - 24/11 : Thuỵ Sĩ vs Cameroon (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",17h - 24/11 : Thuỵ Sĩ vs Cameroon ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",20h - 24/11 : Uruguay vs Hàn Quốc FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",20h - 24/11 : Uruguay vs Hàn Quốc HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 24/11 : Uruguay vs Hàn Quốc (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 24/11 : Uruguay vs Hàn Quốc (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 24/11 : Uruguay vs Hàn Quốc (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",20h - 24/11 : Uruguay vs Hàn Quốc (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",20h - 24/11 : Uruguay vs Hàn Quốc (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",20h - 24/11 : Uruguay vs Hàn Quốc (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",20h - 24/11 : Uruguay vs Hàn Quốc ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",23h - 24/11 : Bồ Đào Nha vs Ghana FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",23h - 24/11 : Bồ Đào Nha vs Ghana HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 24/11 : Bồ Đào Nha vs Ghana (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 24/11 : Bồ Đào Nha vs Ghana (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 24/11 : Bồ Đào Nha vs Ghana (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",23h - 24/11 : Bồ Đào Nha vs Ghana (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",23h - 24/11 : Bồ Đào Nha vs Ghana (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",23h - 24/11 : Bồ Đào Nha vs Ghana (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",23h - 24/11 : Bồ Đào Nha vs Ghana ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
+
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",2h - 25/11 : Brazil vs Serbia FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/90ptv" group-title="90P",2h - 25/11 : Brazil vs Serbia HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://mitom1.90phut6.live/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",2h - 25/11 : Brazil vs Serbia (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",2h - 25/11 : Brazil vs Serbia (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",2h - 25/11 : Brazil vs Serbia (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 tvg-logo="https://hqth.me/xoilactv" group-title="Xoilac",2h - 25/11 : Brazil vs Serbia (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",2h - 25/11 : Brazil vs Serbia (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 tvg-logo="https://hqth.me/cachiatv" group-title="Cakhia",2h - 25/11 : Brazil vs Serbia (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://cakhia17.tv/
+#EXTINF:0 group-title="nhà đài",2h - 25/11 : Brazil vs Serbia ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=
