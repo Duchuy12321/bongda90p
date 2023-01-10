@@ -3,11 +3,9 @@
 
 
 
-#EXTINF:0 group-title="3h - 11/1 : Man United vs Charlton",
-FHD
+#EXTINF:0 group-title="3h - 11/1 : Man United vs Charlton",FHD
 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="3h - 11/1 : Man United vs Charlton",
-HD
+#EXTINF:0 group-title="3h - 11/1 : Man United vs Charlton",HD1
 |Referer=https://player.4shares.live/
 
 
