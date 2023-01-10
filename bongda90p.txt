@@ -15,10 +15,7 @@ https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
 
 
 
-#EXTINF:0 group-title="90P",19h30 - 10/1 : Thái Lan vs Malaysia FHD ⭕️
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="90P",19h30 - 10/1 : Thái Lan vs Malaysia HD ⭕️
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+
 #EXTINF:0 group-title="Xoilac",19h30 - 10/1 : Thái Lan vs Malaysia (1) ⭕️
 https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
 #EXTINF:0 group-title="Xoilac",19h30 - 10/1 : Thái Lan vs Malaysia (2) ⭕️
