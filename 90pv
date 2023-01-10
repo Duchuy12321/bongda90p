@@ -1,0 +1,66 @@
+#EXTM3U url-tvg="http://sg.cvacetv.ga:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml.gz,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/us.xml,https://trada.info/epg.xml"
+#EXTINF:0 group-title="Thông báo",Update list thường xuyên để có link trận đấu
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 
+#EXTINF:0 group-title="Thông báo",thi thoảng mình up link bị chậm nên
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 
+#EXTINF:0 group-title="Thông báo",15p sau khi trận đấu diễn ra
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 
+#EXTINF:0 group-title="Thông báo",mọi người update lại list để có full link
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 
+#EXTINF:0 group-title="Thông báo",khi mất biểu tượng ⭕️ thì link đã up
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+
+
+
+
+
+
+#EXTINF:0 group-title="90P",23h30 - 8/1 : Man City vs Chelsea FHD 
+https://obevcimanyd179314182.thapcam.link/live/may187FHD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="90P",23h30 - 8/1 : Man City vs Chelsea HD 
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="90P",23h30 - 8/1 : Man City vs Chelsea Nước Ngoài
+http://vn2.cvacetv.ga/live1
+
+
+
+#EXTINF:0 group-title="90P",19h30 - 9/1 : Việt Nam vs Indonesia FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="90P",19h30 - 9/1 : Việt Nam vs Indonesia HD1 ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="90P",19h30 - 9/1 : Việt Nam vs Indonesia HD2 ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="Xoilac",19h30 - 9/1 : Việt Nam vs Indonesia (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 group-title="Xoilac",19h30 - 9/1 : Việt Nam vs Indonesia (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 group-title="Xoilac",19h30 - 9/1 : Việt Nam vs Indonesia (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 group-title="Xoilac",19h30 - 9/1 : Việt Nam vs Indonesia (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 group-title="Cakhia",19h30 - 9/1 : Việt Nam vs Indonesia (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+#EXTINF:0 group-title="Cakhia",19h30 - 9/1 : Việt Nam vs Indonesia (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+#EXTINF:0 group-title="Nhà đài",19h30 - 9/1 : Việt Nam vs Indonesia
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+
+
+#EXTINF:0 group-title="90P",19h30 - 10/1 : Thái Lan vs Malaysia FHD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="90P",19h30 - 10/1 : Thái Lan vs Malaysia HD ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="Xoilac",19h30 - 10/1 : Thái Lan vs Malaysia (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 group-title="Xoilac",19h30 - 10/1 : Thái Lan vs Malaysia (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 group-title="Xoilac",19h30 - 10/1 : Thái Lan vs Malaysia (3) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 group-title="Xoilac",19h30 - 10/1 : Thái Lan vs Malaysia (4) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://vb.plvb.xyz/
+#EXTINF:0 group-title="Cakhia",19h30 - 10/1 : Thái Lan vs Malaysia (1) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+#EXTINF:0 group-title="Cakhia",19h30 - 10/1 : Thái Lan vs Malaysia (2) ⭕️
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+#EXTINF:0 group-title="Nhà đài",19h30 - 10/1 : Thái Lan vs Malaysia
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
