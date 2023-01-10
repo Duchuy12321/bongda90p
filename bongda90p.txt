@@ -4,7 +4,7 @@
 
 
 #EXTINF:0 group-title="3h - 11/1 : Man United vs Charlton",FHD
-|Referer=https://player.4shares.live/
+https://obevcimanyd179314182.thapcam.link/live/may21FHD/chunklist.m3u8|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="3h - 11/1 : Man United vs Charlton",HD
 https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8|Referer=https://player.4shares.live/
 
