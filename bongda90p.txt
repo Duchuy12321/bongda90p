@@ -3,114 +3,118 @@
 
 
 
+
+
+
+
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
+4K
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
+FULL HD (Nước Ngoài)
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
+FHD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
+HD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
+Nhà Đài
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+
+
+
+
+#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",
+FHD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",
+HD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",
+Nhà Đài
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+
+
+
+
+#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",
+FHD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",
+HD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",
+Nhà Đài
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+
+
+
+
+#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",
+FHD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",
+HD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",
+Nhà Đài
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+
+
+
+
+#EXTINF:0 group-title="23h30 - 15/1 : Tottenham vs Arsenal",
+FHD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="23h30 - 15/1 : Tottenham vs Arsenal",
+HD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="23h30 - 15/1 : Tottenham vs Arsenal",
+Nhà Đài
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+
+
+
+
+#EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
+4K
+#https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
+FULL HD (Nước Ngoài)
+#https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
+FHD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
+HD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
+Nhà Đài
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+
+
+
+
+
+#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
+4K
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
+FULL HD (Nước Ngoài)
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
+FHD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
+HD
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
+Nhà Đài
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+
+
+
 #EXTINF:0 group-title="Note",*
 https://obevcimanyd179314182.thapcam.link/live/may91/chunklist.m3u8
-
-
-
-#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
-4K
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
-#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
-FULL HD (Nước Ngoài)
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
-#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
-FHD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
-HD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
-Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
-
-
-
-
-#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",
-FHD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",
-HD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",
-Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
-
-
-
-
-#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",
-FHD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",
-HD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",
-Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
-
-
-
-
-#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",
-FHD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",
-HD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",
-Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
-
-
-
-
-#EXTINF:0 group-title="23h30 - 15/1 : Tottenham vs Arsenal",
-FHD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="23h30 - 15/1 : Tottenham vs Arsenal",
-HD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="23h30 - 15/1 : Tottenham vs Arsenal",
-Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
-
-
-
-
-#EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
-4K
-#https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
-#EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
-FULL HD (Nước Ngoài)
-#https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
-#EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
-FHD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
-HD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
-Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
-
-
-
-
-
-#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
-4K
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
-#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
-FULL HD (Nước Ngoài)
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
-#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
-FHD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
-HD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
-Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
