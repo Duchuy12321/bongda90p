@@ -13,12 +13,10 @@ https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
 #EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
 FULL HD (Nước Ngoài)
 https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
-#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
-FHD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
-HD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",FHD
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",HD
+https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8 |Referer=https://player.4shares.live/
 #EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
 Nhà Đài
 https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
