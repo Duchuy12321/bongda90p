@@ -127,5 +127,8 @@ https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.co
 
 
 
-#EXTINF:0 group-title="Note",*
-https://obevcimanyd179314182.thapcam.link/live/may91/chunklist.m3u8
+#EXTINF:0 group-title="Note",1
+https://cc.bluecdn.link/live-1/video.m3u8|Referer=https://cucai4.live/
+#EXTINF:0 group-title="Note",2
+https://hi.bluecdn.link/cc-backup-1/index.m3u8|Referer=https://cucai4.live/
+
