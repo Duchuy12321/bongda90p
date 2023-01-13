@@ -4,6 +4,19 @@
 
 
 
+#EXTINF:0 group-title="19h30 - 13/1 : Việt Nam vs Thái Lan",FHD
+https://obevcimanyd179314182.thapcam.link/live/may020FHD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="19h30 - 13/1 : Việt Nam vs Thái Lan",HD
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="19h30 - 13/1 : Việt Nam vs Thái Lan",Nhà Đài
+http://vn3.cvacetv.ga/vtv5
+
+
+
+
+
+
+
 
 #EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
 4K
