@@ -9,10 +9,19 @@
 https://obevcimanyd179314182.thapcam.link/live/may022FHD/playlist.m3u8|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",HD
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",backup 1
+https://179720687.global.cdnfastest.com/live/1-3747225-0/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",backup 2
+https://179720687.global.cdnfastest.com/live/1-3747225-2/playlist.m3u8|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",Nhà Đài1
 https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",Nhà Đài2
 https://zenpro2.banthang.link/live/_definst_/stream_1_4e329@VG21/chunklist.m3u8|Referer=https://tructiepbongda15.com/
+
+
+
+
+
 
 
 #EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",
