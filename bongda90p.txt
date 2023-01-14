@@ -4,35 +4,23 @@
 
 
 
-#EXTINF:0 group-title="19h30 - 13/1 : Việt Nam vs Thái Lan",FHD
-https://obevcimanyd179314182.thapcam.link/live/may020FHD/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 13/1 : Việt Nam vs Thái Lan",HD
+
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",4K
+http://vn2.cvacetv.ga/4KUHD
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",FULL HD (Nước Ngoài)
+http://sg.cvacetv.ga/DAZN1
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",FHD
+https://obevcimanyd179314182.thapcam.link/live/may022FHD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",HD
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 13/1 : Việt Nam vs Thái Lan",Nhà Đài
-http://vn3.cvacetv.ga/vtv5
-
-
-
-
-
-
-
-
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",Nhà Đài 1
+https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
-4K
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
-#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
-FULL HD (Nước Ngoài)
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
-#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
-FHD
-|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
-HD
-|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",
-Nhà Đài
+Nhà Đài 2
 https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+#EXTINF:0 group-title="19h30 - 14/1 : Man United vs Man City",Cucai
+https://hi.bluecdn.link/live-6/video.m3u8|Referer=https://cucai4.live/
+
 
 
 
