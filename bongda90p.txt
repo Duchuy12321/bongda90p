@@ -5,47 +5,32 @@
 
 
 
-#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",FHD
-https://obevcimanyd179314182.thapcam.link/live/may022FHD/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",HD
+
+
+#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",FHD
+https://obevcimanyd179314182.thapcam.link/live/may026FHD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",HD
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",backup 1
-https://179720687.global.cdnfastest.com/live/1-3747225-0/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",backup 2
-https://179720687.global.cdnfastest.com/live/1-3747225-2/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",Nhà Đài1
-https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 14/1 : Brighton vs Liverpool",Nhà Đài2
-https://zenpro2.banthang.link/live/_definst_/stream_1_4e329@VG21/chunklist.m3u8|Referer=https://tructiepbongda15.com/
+#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",Nhà Đài1
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",Nhà Đài2
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8|Referer=https://live.rakhoi7.com/
 
 
 
 
 
 
-
-#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",
-FHD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",
-HD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="21h - 15/1 : Chelsea vs Crystal Palace",
-Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",FHD
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",HD
+https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",Nhà Đài1
+https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",Nhà Đài2
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m304nd/chunklist.m3u8|Referer=https://live.rakhoi7.com/
 
 
-
-
-#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",
-FHD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",
-HD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="21h - 15/1 : Newcastle vs Fulham",
-Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
 
 
 
@@ -58,7 +43,7 @@ HD
 https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
 #EXTINF:0 group-title="23h30 - 15/1 : Tottenham vs Arsenal",
 Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://live.rakhoi7.com/
 
 
 
@@ -77,7 +62,7 @@ HD
 https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
 #EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
 Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://live.rakhoi7.com/
 
 
 
@@ -97,7 +82,7 @@ HD
 https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
 #EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
 Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://rakhoi.rakhoi7.com/
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://live.rakhoi7.com/
 
 
 
