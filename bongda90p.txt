@@ -1,17 +1,8 @@
-#EXTM3U url-tvg="http://sg.cvacetv.ga:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml.gz,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/us.xml,https://trada.info/epg.xml"
+#EXTM3U url-tvg="http://sg.vthanhtivi.com:8080/xmltv/channels,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml.gz,https://iptv-org.github.io/epg/guides/en/bt.com.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/en/abc.net.au.xml,https://trada.info/epg.xml"
 
 
 
 
-
-
-
-
-
-#EXTINF:0 group-title="MU vs Crys",FHD
-https://obevcimanyd179314182.thapcam.link/live/may035FHD/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="MU vs Crys",HD
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live/
 
 
 
@@ -19,10 +10,10 @@ https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.
 
 #EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
 4K
-#https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+http://vn2.vthanhtivi.com/4KUHD
 #EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
 FULL HD (Nước Ngoài)
-#https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
 #EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
 FHD
 https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
@@ -39,10 +30,7 @@ https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://live.rakhoi7.com/
 
 #EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
 4K
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
-#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
-FULL HD (Nước Ngoài)
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8
+http://vn2.vthanhtivi.com/4KUHD
 #EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
 FHD
 https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
@@ -59,4 +47,3 @@ https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://live.rakhoi7.com/
 https://cc.bluecdn.link/live-1/video.m3u8|Referer=https://cucai4.live/
 #EXTINF:0 group-title="Note",2
 https://hi.bluecdn.link/cc-backup-1/index.m3u8|Referer=https://cucai4.live/
-
