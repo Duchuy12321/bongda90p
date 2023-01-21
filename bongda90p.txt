@@ -8,8 +8,7 @@
 
 
 
-#EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
-4K
+#EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",4K
 http://vn2.vthanhtivi.com/4KUHD
 #EXTINF:0 group-title="19h30 - 21/1 : Liverpool vs Chelsea",
 FULL HD (Nước Ngoài)
