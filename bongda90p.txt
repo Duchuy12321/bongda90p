@@ -8,14 +8,14 @@
 
 
 
-
-
+#EXTINF:0 group-title="Man City vs Wolves",nước ngoài
+https://sg.vthanhtivi.com/Setanta1
 #EXTINF:0 group-title="Man City vs Wolves",FHD
-https://live.vbfast.xyz/8421d3f6d3aaec5a37bdcf1c7e0f68a4/1674437474377/rchtwtx/rchtwtx@720p.m3u8 |Referer=https://player.4shares.live/
+https://live.vbfast.xyz/8421d3f6d3aaec5a37bdcf1c7e0f68a4/1674437474377/rchtwtx/rchtwtx@720p.m3u8 |Referer=https://mt.plvb.xyz/
 #EXTINF:0 group-title="Man City vs Wolves",HD
-https://live.vbfast.xyz/c958a2a9ba051db51aa01db88ca82ebc/1674437491231/acvppkv/acvppkv@720p.m3u8 |Referer=https://player.4shares.live/
+https://live.vbfast.xyz/c958a2a9ba051db51aa01db88ca82ebc/1674437491231/acvppkv/acvppkv@720p.m3u8 |Referer=https://mt.plvb.xyz/
 #EXTINF:0 group-title="Man City vs Wolves",Nhà Đài
-https://1123139281.cdn.khmer-hd.com/may9/playlist.m3u8 |Referer=https://player.4shares.live/
+http://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8 |Referer=https://player.4shares.live/
 
 
 
