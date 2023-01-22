@@ -2,35 +2,12 @@
 
 
 
-
-
-
-
-#EXTINF:0 group-title="Man City vs Wolves",nước ngoài
-https://sg.vthanhtivi.com/Setanta1
-#EXTINF:0 group-title="Man City vs Wolves",FHD
-https://live.vbfast.xyz/8421d3f6d3aaec5a37bdcf1c7e0f68a4/1674437474377/rchtwtx/rchtwtx@720p.m3u8 |Referer=https://mt.plvb.xyz/
-#EXTINF:0 group-title="Man City vs Wolves",HD
-https://live.vbfast.xyz/c958a2a9ba051db51aa01db88ca82ebc/1674437491231/acvppkv/acvppkv@720p.m3u8 |Referer=https://mt.plvb.xyz/
-#EXTINF:0 group-title="Man City vs Wolves",Nhà Đài
-http://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8 |Referer=https://player.4shares.live/
-
-
-
-
-
-#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
-4K
-http://vn2.vthanhtivi.com/4KUHD
-#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
-FHD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
-HD
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",
-Nhà Đài
-https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8 |Referer=https://live.rakhoi7.com/
+#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",FHD
+https://obevcimanyd179314182.thapcam.link/live/may045FHD/chunklist.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",HD
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8 |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="23h30 - 22/1 : Arsenal vs Man United",Nhà Đài
+https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8 |Referer=https://player.4shares.live/
 
 
 
