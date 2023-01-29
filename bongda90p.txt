@@ -279,5 +279,5 @@ https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
 
 
 
-#EXTINF:0 group-title="Phim : Train to Busan",1
-https://so-trym.topphimmoi.org/raw/733d1155bbe6e8ce66e332415b5ffe38/index.m3u8|Referer=https://phimmoichilla.net/
+#EXTINF:0 group-title="Phim : Train to Busan",1*
+https://ch.vidsugar.com/hls/414c5936535938572f736a765654706861424b7067596447537842712f34746855684c6841715852454b4334386270395a416f71576131705057472f42417230/chunklist.m3u8 |Referer=https://motchill.tv/xem-phim/chuyen-tau-sinh-tu-tap-full-200_6911.html 
