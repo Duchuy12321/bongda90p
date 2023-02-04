@@ -21,27 +21,18 @@ https://obevcimanyd179314182.thapcam.link/live/may061FHD/chunklist.m3u8|Referer=
 
 
 
-#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal"
-,90P FULL HD
-https://cc.bluecdn.link/live-1/video.m3u8 |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal",
-90P HD
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal",
-Xoilac (1)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal",
-Xoilac (2)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal",
-Xoilac (3)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal",
-Xoilac (4)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal",
-Nhà Đài
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal",90P FULL HD
+https://obevcimanyd179314182.thapcam.link/live/may065FHD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal",90P HD
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal",Xoilac (1)
+https://live.vbfast.xyz/93a03d25babf6dc1679a4d09be16a3bd/1675556416858/rchtwtx/rchtwtx@720p.m3u8|Referer=https://xoilac.plvb.xyz/
+#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal",Xoilac (2)
+https://live.vbfast.xyz/efb5a41f4cfec5558d19a4c531f314fe/1675556438747/lhsazur/lhsazur@720p.m3u8|Referer=https://xoilac.plvb.xyz/
+#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal",Xoilac (3)
+https://live.vbfast.xyz/460462c61635b55d65cea8a002699f45/1675556463891/acvppkv/acvppkv@720p.m3u8|Referer=https://xoilac.plvb.xyz/
+#EXTINF:0 group-title="19h30 - 4/2 : Everton vs Arsenal",Nhà Đài
+https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8|Referer=https://player.4shares.live/
 
 
 #EXTINF:0 group-title="22h - 4/2 : Man United vs Crystal Palace",
