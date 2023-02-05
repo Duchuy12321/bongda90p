@@ -11,28 +11,6 @@ https://obevcimanyd179314182.thapcam.link/live/may061FHD/chunklist.m3u8|Referer=
 
 
 
-
-
-#EXTINF:0 group-title="22h - 4/2 : Man United vs Crystal Palace",90P FULL HD
-https://obevcimanyd179314182.thapcam.link/live/may065FHD/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 4/2 : Man United vs Crystal Palace",90P HD
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 4/2 : Man United vs Crystal Palace",Nhà Đài
-https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8|Referer=https://player.4shares.live/
-
-
-#EXTINF:0 group-title="22h - 4/2 : Wolverhampton vs Liverpool",90P FULL HD
-https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 4/2 : Wolverhampton vs Liverpool",90P HD
-https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 4/2 : Wolverhampton vs Liverpool",Nhà Đài
-https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8|Referer=https://player.4shares.live/
-
-
-#EXTINF:0 group-title="22h - 4/2 : Brighton vs Bournemouth",Nhà Đài
-https://obevcimanyd179314182.thapcam.link/live/may122/playlist.m3u8|Referer=https://player.4shares.live/
-
-
 #EXTINF:0 group-title="20h - 5/2 : Mallorca vs Real Madrid",
 90P FULL HD
 https://cc.bluecdn.link/live-1/video.m3u8 |Referer=https://player.4shares.live/
