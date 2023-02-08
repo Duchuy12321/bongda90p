@@ -15,137 +15,137 @@ https://obevcimanyd179314182.thapcam.link/live/may061FHD/chunklist.m3u8|Referer=
 
 #EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",
 90P FULL HD
-https://cc.bluecdn.link/live-1/video.m3u8 |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",
 90P HD
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",
 Xoilac (1)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",
 Xoilac (2)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",
 Xoilac (3)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",
 Xoilac (4)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",
 Nhà Đài
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 
 
 #EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
 90P FULL HD
-https://cc.bluecdn.link/live-1/video.m3u8 |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
 90P HD
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
 Xoilac (1)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
 Xoilac (2)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
 Xoilac (3)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
 Xoilac (4)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
 Nhà Đài
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 
 
 #EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
 90P FULL HD
-https://cc.bluecdn.link/live-1/video.m3u8 |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
 90P HD
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
 Xoilac (1)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
 Xoilac (2)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
 Xoilac (3)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
 Xoilac (4)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
 Nhà Đài
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 
 
 #EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
 90P FULL HD
-https://cc.bluecdn.link/live-1/video.m3u8 |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
 90P HD
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
 Xoilac (1)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
 Xoilac (2)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
 Xoilac (3)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
 Xoilac (4)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
 Nhà Đài
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 
 
 #EXTINF:0 group-title="21h - 12/2 : Leeds United vs Man United",
 90P FULL HD
-https://cc.bluecdn.link/live-1/video.m3u8 |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="21h - 12/2 : Leeds United vs Man United",
 90P HD
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="21h - 12/2 : Leeds United vs Man United",
 Xoilac (1)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="21h - 12/2 : Leeds United vs Man United",
 Xoilac (2)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="21h - 12/2 : Leeds United vs Man United",
 Xoilac (3)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="21h - 12/2 : Leeds United vs Man United",
 Xoilac (4)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="21h - 12/2 : Leeds United vs Man United",
 Nhà Đài
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 
 
 #EXTINF:0 group-title="23h30 - 12/2 : Man City vs Aston Villa",
 90P FULL HD
-https://cc.bluecdn.link/live-1/video.m3u8 |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="23h30 - 12/2 : Man City vs Aston Villa",
 90P HD
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="23h30 - 12/2 : Man City vs Aston Villa",
 Xoilac (1)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="23h30 - 12/2 : Man City vs Aston Villa",
 Xoilac (2)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="23h30 - 12/2 : Man City vs Aston Villa",
 Xoilac (3)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="23h30 - 12/2 : Man City vs Aston Villa",
 Xoilac (4)
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://xoilac.plvb.xyz/
+|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="23h30 - 12/2 : Man City vs Aston Villa",
 Nhà Đài
-https://cc.bluecdn.link/live-1/video.m3u8  |Referer=https://player.4shares.live/
+|Referer=https://player.4shares.live/
