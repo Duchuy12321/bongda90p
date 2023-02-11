@@ -11,89 +11,48 @@ https://hi.redcdn.link/live-1/tracks-v1a1/mono.m3u8|Referer=https://cucai4.live/
 
 
 
-
-
-#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",90P FULL HD
-https://obevcimanyd179314182.thapcam.link/live/may074FHD/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",90P HD
+#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",90P FULL HD
+https://179672673.global.cdnfastest.com/live/may075FHD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",90P HD
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",Xoilac (1)
-https://live.vbfast.xyz/0e0bb8d40ac7d2b0a2483a7bb6529b9d/1676166393559/rchtwtx/rchtwtx@720p.m3u8|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",Xoilac (2)
-https://live.vbfast.xyz/08579edb4b63542ffd82d1736a76a50c/1676166424882/lhsazur/lhsazur@720p.m3u8|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",Xoilac (3)
-https://live.vbfast.xyz/ccfe3ca4dccc77d0c4a50522ac78751f/1676166443049/acvppkv/acvppkv@720p.m3u8|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",Nhà Đài*
+#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",Cakhia (1)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://live.rakhoi7.com/
+#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",Cakhia (2)
+https://179665839.global.cdnfastest.com/live/luhd2/playlist.m3u8|Referer=https://live.rakhoi7.com/
+#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",Nhà Đài 1
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|Referer=https://live.rakhoi7.com/
+#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",Nhà Đài 2
 https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8|Referer=https://player.4shares.live/
 
 
-#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
-90P FULL HD
-|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
-90P HD
-|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
-Xoilac (1)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
-Xoilac (2)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
-Xoilac (3)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
-Xoilac (4)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="22h - 11/2 : Arsenal vs Brentford",
-Nhà Đài
-|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",Cá Heo (1)
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://live.caheo6.tv/
+#EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",Cá Heo (2)
+https://179665839.global.cdnfastest.com/live/thoxayhd2/playlist.m3u8|Referer=https://live.caheo6.tv/
+#EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",Cakhia (1)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://live.rakhoi7.com/
+#EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",Cakhia (2)
+https://179665839.global.cdnfastest.com/live/cayhd2/playlist.m3u8|Referer=https://live.rakhoi7.com/
+#EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",Nhà Đài
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8|Referer=https://live.rakhoi7.com/
 
 
-#EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
-90P FULL HD
-|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
-90P HD
-|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
-Xoilac (1)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
-Xoilac (2)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
-Xoilac (3)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
-Xoilac (4)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="22h - 11/2 : Crystal Palace vs Brighton",
-Nhà Đài
-|Referer=https://player.4shares.live/
-
-
-#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
-90P FULL HD
-|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
-90P HD
-|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
-Xoilac (1)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
-Xoilac (2)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
-Xoilac (3)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
-Xoilac (4)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",
-Nhà Đài
-|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",90P FULL HD
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",90P HD
+https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8|Referer=https://player.4shares.live/
+#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",Cá Heo (1)
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://live.caheo6.tv/
+#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",Cá Heo (2)
+https://179665839.global.cdnfastest.com/live/hplushd2/playlist.m3u8|Referer=https://live.caheo6.tv/
+#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",Cakhia (1)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://live.rakhoi7.com/
+#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",Cakhia (2)
+https://179665839.global.cdnfastest.com/live/cachuoihd2/playlist.m3u8|Referer=https://live.rakhoi7.com/
+#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",Nhà Đài (1)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=https://live.rakhoi7.com/
+#EXTINF:0 group-title="22h - 11/2 : Leicester City vs Tottenham",Nhà Đài (2)
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8|Referer=https://player.4shares.live/
 
 
 #EXTINF:0 group-title="21h - 12/2 : Leeds United vs Man United",
