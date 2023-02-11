@@ -17,18 +17,12 @@ https://obevcimanyd179314182.thapcam.link/live/may061FHD/chunklist.m3u8|Referer=
 https://obevcimanyd179314182.thapcam.link/live/may074FHD/playlist.m3u8|Referer=https://player.4shares.live/
 #EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",90P HD
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8|Referer=https://player.4shares.live/
-#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",
-Xoilac (1)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",
-Xoilac (2)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",
-Xoilac (3)
-|Referer=https://xoilac.plvb.xyz/
-#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",
-Xoilac (4)
-|Referer=https://xoilac.plvb.xyz/
+#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",Xoilac (1)
+https://live.vbfast.xyz/0e0bb8d40ac7d2b0a2483a7bb6529b9d/1676166393559/rchtwtx/rchtwtx@720p.m3u8|Referer=https://xoilac.plvb.xyz/
+#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",Xoilac (2)
+https://live.vbfast.xyz/08579edb4b63542ffd82d1736a76a50c/1676166424882/lhsazur/lhsazur@720p.m3u8|Referer=https://xoilac.plvb.xyz/
+#EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",Xoilac (3)
+https://live.vbfast.xyz/ccfe3ca4dccc77d0c4a50522ac78751f/1676166443049/acvppkv/acvppkv@720p.m3u8|Referer=https://xoilac.plvb.xyz/
 #EXTINF:0 group-title="19h30 - 11/2 : West Ham vs Chelsea",Nhà Đài
 https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8|Referer=https://player.4shares.live/
 
